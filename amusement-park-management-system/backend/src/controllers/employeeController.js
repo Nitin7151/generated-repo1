@@ -1,0 +1,1 @@
+Manages employee schedules.
