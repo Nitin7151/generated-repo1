@@ -1,0 +1,1 @@
+Detailed view for a specific ride.
