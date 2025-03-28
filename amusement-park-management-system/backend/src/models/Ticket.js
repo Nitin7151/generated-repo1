@@ -1,0 +1,1 @@
+Ticket schema for ticket management.
