@@ -1,0 +1,1 @@
+Configuration settings like database and API keys.
